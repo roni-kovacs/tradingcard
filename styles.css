@@ -1,0 +1,46 @@
+
+
+body {
+  font-size: 1em;
+  font-family: sans-serif;
+  align-content: left;
+  margin: 100px 10px;
+  border: 3px solid #99bbff;
+  border-radius: round;
+  text-align: center;
+  width: 350px;
+  height: 815px;
+  color: #004d99;
+  }
+
+.info{
+  border: 2px solid #b3d9ff;
+  width: 300px;
+  margin: 25px;
+}
+
+.photo{      <!-- the picture -->
+  width: 300px;
+  height: 230px;
+}
+
+.fact{      <!-- interesting fact part-->
+  font-style: italic;
+}
+
+.list{      <!--  the list part -->
+  text-align: center;
+  list-style-type: none;
+
+}
+
+.listHeader{   <!-- the header/first part of the list -->
+  font-weight: bold;
+  color: #0066cc;
+}
+
+.title{       <!-- the title-->
+  font-size: 1.4em;
+  font-weight: bolder;
+  color:  #003366;
+}
